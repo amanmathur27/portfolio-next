@@ -18,17 +18,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Here are some of the snapshots of my project
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (20)](https://github.com/amanmathur27/portfolio-next/assets/76219608/de8b428e-dbaa-4fe4-8fe8-d5112f204cba)
+![Screenshot (21)](https://github.com/amanmathur27/portfolio-next/assets/76219608/4f01e008-a387-47e7-9b2a-722ea8c3c3ee)
+![Screenshot (22)](https://github.com/amanmathur27/portfolio-next/assets/76219608/bf0f57ad-55ab-4dd3-8384-b18c8e0da9cb)
+![Screenshot (23)](https://github.com/amanmathur27/portfolio-next/assets/76219608/b4f7bb76-99b5-4bfb-b648-660650391df0)
+![Screenshot (24)](https://github.com/amanmathur27/portfolio-next/assets/76219608/1306e449-5465-4fbe-8b2c-57a2f87befa9)
