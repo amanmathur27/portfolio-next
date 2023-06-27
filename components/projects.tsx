@@ -11,13 +11,10 @@ const Projects = () => {
               My Projects
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them man bun deep jianbing selfies heirloom.
+              These are few of my minor projects. Some are based on web-dev and some of them are on machine learning. Have a look at my projects. 
             </p>
           </div>
           <div className="flex flex-wrap -m-5 -mt-9">
-
             {/* project1 */}
 
             <div className="lg:w-1/3 sm:w-1/2 p-4 cursor-pointer">
@@ -55,24 +52,25 @@ const Projects = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 object-cover object-center w-full h-full"
-                  src={"/assets/images/word-count.png"}
+                  src={"/assets/images/uber-data-analysis.png"}
                   width={500}
                   height={200}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                    Web-Dev
+                    Machine Learning
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Text Counter
+                    Uber Data Analysis
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                    I had made this simple yet very beautiful text counter
-                    website using HTML 5, CSS 3, and JavaScript as one of my
-                    minor projects.
+                    A group project on data science with ML in which we did the
+                    visualization and analysis of Uber's ridership growth in NYC
+                    in 2014 and 2018. Also Estimated the predicted fare using
+                    the extracted features from the dataset using two ML Models.
                   </p>
                   <br />
-                  <Link href={"#"} target="_blanck">
+                  <Link href={"https://github.com/lachenlama/TeamOverFlow"} target="_blanck">
                     <p className="leading-relaxed text-indigo-500 hover:underline">
                       View Project..
                     </p>

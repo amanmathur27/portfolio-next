@@ -30,14 +30,14 @@ const Footer = () => {
               <BsFacebook className="text-2xl hover:text-[black]" />
             </Link>
             <Link
-              href={"https://www.facebook.com"}
+              href={"https://github.com/amanmathur27"}
               className="ml-3 text-gray-500"
               target="_blanck"
             >
               <BsGithub className="text-2xl hover:text-[black]" />
             </Link>
             <Link
-              href={"https://www.facebook.com"}
+              href={"https://www.linkedin.com/in/aman-mathur-am27"}
               className="ml-3 text-gray-500"
               target="_blanck"
             >
