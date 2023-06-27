@@ -1,8 +1,8 @@
-import { AiFillHtml5 } from 'react-icons/Ai';
-import { SiCss3 } from 'react-icons/Si';
-import { IoLogoJavascript } from 'react-icons/Io';
-import { FaJava } from 'react-icons/Fa';
-import { FaNodeJs } from 'react-icons/Fa';
+import { AiFillHtml5 } from 'react-icons/ai';
+import { SiCss3 } from 'react-icons/si';
+import { IoLogoJavascript } from 'react-icons/io';
+import { FaJava } from 'react-icons/fa';
+import { FaNodeJs } from 'react-icons/fa';
 const Skills = () => {
   return (
     <div id='skill'>
