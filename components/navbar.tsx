@@ -35,7 +35,7 @@ const Navbar = () => {
             <span className="ml-3 text-xl">Aman Mathur</span>
           </a>
           <div className="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
-            <a href="/assets/documents/aman-updated-resume.pdf" target="_black">
+            <a href="/assets/documents/Aman-CV.pdf" target="_black">
             <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
               Download CV
               <FiDownloadCloud className="text-xl ml-2"/>

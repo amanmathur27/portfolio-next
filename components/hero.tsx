@@ -51,7 +51,7 @@ const Hero = () => {
                 Contact
               </button>
             </Link>
-            <Link href={"/assets/documents/aman-updated-resume.pdf"} target="_blank">
+            <Link href={"/assets/documents/Aman-CV.pdf"} target="_blank">
             <button className="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-lg">
               Download My Resume
             </button>

@@ -37,7 +37,7 @@ const About = () => {
               collaboration opportunities.
             </p>
             <div className="flex justify-center">
-                <Link href={"/assets/documents/aman-updated-resume.pdf"} target="_blank">
+                <Link href={"/assets/documents/Aman-CV.pdf"} target="_blank">
               <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                 View CV
               </button>
